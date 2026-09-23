@@ -1,16 +1,12 @@
 <p align="center"><sub>MOBILE &nbsp; / &nbsp; WEB &nbsp; / &nbsp; AI</sub></p>
 
-<h1 align="center">Bartu Kaan Pideci</h1>
+<h1 align="center">Bartu Kaan</h1>
 
 <p align="center"><strong>Thoughtful products. End-to-end engineering.</strong></p>
 
 <p align="center">
   I build products across mobile, web, and desktop—connecting thoughtful<br>
   interfaces with the systems behind them.
-</p>
-
-<p align="center">
-  <a href="https://www.bartukaanpideci.com/">Website</a> &nbsp; ↗
 </p>
 
 <br>
@@ -39,7 +35,7 @@ A digital event album where guests contribute photos, videos, and voice notes th
 A local workspace for AI agents, bringing terminals, shared tasks, memory, and curated skills together.
 
 **Electron · React · TypeScript · SQLite**  
-<sub>In development · Built on the open-source foundation of <a href="https://github.com/chaitanyagiri/munder-difflin">Munder Difflin</a>.</sub>
+<sub>In development </sub>
 
 <br>
 
