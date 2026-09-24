@@ -1,4 +1,4 @@
-<p align="center"><sub>MOBILE &nbsp; / &nbsp; WEB &nbsp; / &nbsp; AI</sub></p>
+<p align="center"><sub>MOBILE &nbsp; | &nbsp; WEB &nbsp; | &nbsp; AI</sub></p>
 
 <h1 align="center">Bartu Kaan</h1>
 
