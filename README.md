@@ -31,6 +31,12 @@ A digital event album where guests contribute photos, videos, and voice notes th
 **Astro · React · TypeScript · Cloudflare**  
 [Explore AlbumQR ↗](https://albumqr.com)
 
+### TapFresh
+A macOS utility for exploring disk usage, reviewing cleanup candidates, and temporarily blocking keyboard input for physical cleaning.
+
+**Flutter · Dart · Go · macOS**<br>
+<sub>In development</sub>
+
 ### Barness
 A local workspace for AI agents, bringing terminals, shared tasks, memory, and curated skills together.
 
